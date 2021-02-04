@@ -2,4 +2,5 @@
 
 
 Länk till projektet:
-https://hberglund.github.io/Quizaa/
+https://quizaa.netlify.app
+
